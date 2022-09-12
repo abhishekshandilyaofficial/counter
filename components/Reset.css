@@ -1,0 +1,13 @@
+.reset{
+    box-sizing: border-box;
+    height: 100%;
+    border: 3px solid black;
+    background-color: teal;
+    
+}
+.counter-num{
+    margin-bottom: 5px;
+}
+.counter-val{
+    margin-bottom: 5px;
+}
